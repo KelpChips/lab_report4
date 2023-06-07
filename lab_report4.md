@@ -30,7 +30,7 @@ You will now be editing the `ListExamples.java` file in vim. So you type `vim Li
 
 ![image](step7_before.png)
 
-From the error from step 3, we know we need to look at the merge command. So you will type `/merge` to go to that command and press `<Enter>`. We see that there is an error to fix for `index1`. To directly jump to that line of code we will type `/index1 +` and press `<Enter>`. This will jump to the first instance of this specific String, so get to the line to fix we will press `/` in conjuction with the `up` arrowkey to get what we type before and press `<Enter>`. Repeat this step one more time and you will be at the start of the line that we need to fix. You will then press `e` which should bring the cursor to the end of the line. Enter insert mode by pressing `i` and press the `right arrow key to place the cursor to the right of 1. Then hit `<backspace>` and type in `2`.
+From the error from step 3, we know we need to look at the merge command. So you will type `/merge` to go to that command and press `<Enter>`. We see that there is an error to fix for `index1`. To directly jump to that line of code we will type `/index1 +` and press `<Enter>`. This will jump to the first instance of this specific String, so get to the line to fix we will press `/` in conjuction with the `up` arrowkey to get what we type before and press `<Enter>`. Repeat this step one more time and you will be at the start of the line that we need to fix. You will then press `e` which should bring the cursor to the end of the line. Enter insert mode by pressing `i` and press the `right` arrow key to place the cursor to the right of 1. Then hit `<backspace>` and type in `2`.
   
 *After*
 

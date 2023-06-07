@@ -23,4 +23,4 @@ After exiting you will run `bash test.sh` again and now you will see that you ha
   
 ## Step 6 | Commit and Push changes to Github
   
-To commit all your changes you will type `git add .`, which adds the current directory to the staging area. Then you will type `git commit` and will change the screen where you can type anything to give a commit message. press `i` and type whatever message that will be associated with the commit.
+To commit all your changes you will type `git add .`, which adds the current directory to the staging area. Then you will type `git commit` and will change the screen where you can type anything to give a commit message. press `i` and type whatever message that will be associated with the commit. Then you will type `git push` which will push all the changes into your github account. To see if updated properly you can check your github account that you pushed the edits to.
